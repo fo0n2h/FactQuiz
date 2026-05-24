@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "affirmation": "Les vaccins contre la Covid-19 modifient l'ADN humain.",
+    "reponse": false,
+    "explication": "Les vaccins à ARNm ne pénètrent jamais dans le noyau des cellules et ne peuvent donc pas modifier l'ADN. L'ARNm se dégrade en quelques jours après l'injection.",
+    "categorie": "Santé"
+  },
+  {
+    "id": 2,
+    "affirmation": "La Tour Eiffel peut mesurer jusqu'à 15 cm de plus en été qu'en hiver.",
+    "reponse": true,
+    "explication": "La dilatation thermique des métaux est réelle : par forte chaleur, l'acier se dilate et la Tour Eiffel peut gagner plusieurs centimètres en hauteur.",
+    "categorie": "Science"
+  },
+  {
+    "id": 3,
+    "affirmation": "Les humains n'utilisent que 10 % de leur cerveau.",
+    "reponse": false,
+    "explication": "C'est un mythe populaire. Les neuroimageries montrent que nous utilisons la quasi-totalité de notre cerveau, même pendant le sommeil. Aucune zone n'est « dormante ».",
+    "categorie": "Science"
+  },
+  {
+    "id": 4,
+    "affirmation": "La Grande Muraille de Chine est visible à l'œil nu depuis l'espace.",
+    "reponse": false,
+    "explication": "Plusieurs astronautes, dont des Chinois, ont confirmé qu'elle n'est pas visible à l'œil nu depuis l'orbite terrestre basse en raison de sa faible largeur (entre 4 et 9 mètres).",
+    "categorie": "Histoire"
+  },
+  {
+    "id": 5,
+    "affirmation": "L'eau chaude peut geler plus vite que l'eau froide dans certaines conditions.",
+    "reponse": true,
+    "explication": "C'est l'effet Mpemba, observé et documenté scientifiquement. Dans certaines conditions (contenant, quantité, composition de l'eau), l'eau chaude peut en effet geler avant l'eau froide.",
+    "categorie": "Science"
+  },
+  {
+    "id": 6,
+    "affirmation": "Les chauves-souris sont aveugles.",
+    "reponse": false,
+    "explication": "Les chauves-souris ont des yeux fonctionnels et voient très bien. Elles utilisent en plus l'écholocation pour naviguer dans l'obscurité, mais elles ne sont pas aveugles.",
+    "categorie": "Nature"
+  },
+  {
+    "id": 7,
+    "affirmation": "Le chocolat noir est toxique pour les chiens.",
+    "reponse": true,
+    "explication": "Le chocolat contient de la théobromine, que les chiens métabolisent très lentement. Une ingestion peut provoquer des vomissements, convulsions et, en grande quantité, la mort.",
+    "categorie": "Nature"
+  },
+  {
+    "id": 8,
+    "affirmation": "Napoleon Bonaparte était extrêmement petit pour son époque.",
+    "reponse": false,
+    "explication": "Napoléon mesurait environ 1,69 m, soit une taille légèrement supérieure à la moyenne française de son époque (~1,66 m). La légende de sa petite taille vient d'une confusion entre unités de mesure anglaises et françaises.",
+    "categorie": "Histoire"
+  },
+  {
+    "id": 9,
+    "affirmation": "Les antibiotiques sont efficaces contre les infections virales comme la grippe.",
+    "reponse": false,
+    "explication": "Les antibiotiques agissent uniquement contre les bactéries, pas contre les virus. Les prescrire contre la grippe (causée par un virus) est inefficace et contribue à la résistance aux antibiotiques.",
+    "categorie": "Santé"
+  },
+  {
+    "id": 10,
+    "affirmation": "Les empreintes digitales des pieuvres ressemblent à celles des humains.",
+    "reponse": true,
+    "explication": "La convergence évolutive est réelle : les pieuvres et les humains ont développé des crêtes cutanées similaires sur leurs ventouses/doigts, de façon totalement indépendante.",
+    "categorie": "Nature"
+  },
+  {
+    "id": 11,
+    "affirmation": "Le Wi-Fi cause des dommages cérébraux prouvés scientifiquement.",
+    "reponse": false,
+    "explication": "Aucune étude scientifique sérieuse n'a démontré que les ondes Wi-Fi (non-ionisantes) causent des dommages aux tissus humains. Les niveaux d'exposition sont très largement en dessous des seuils de sécurité.",
+    "categorie": "Technologie"
+  },
+  {
+    "id": 12,
+    "affirmation": "L'être humain possède plus de 5 sens.",
+    "reponse": true,
+    "explication": "Au-delà des 5 sens classiques, les humains possèdent aussi la proprioception (sens de la position du corps), la thermoception (chaleur), la nociception (douleur), l'équilibrioception, et d'autres encore.",
+    "categorie": "Science"
+  }
+]
