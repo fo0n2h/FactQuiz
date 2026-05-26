@@ -5,6 +5,7 @@ import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import questionsData from "../../../data/questions.json";
 import type { Question, ReponseUtilisateur } from "@/types/question";
+import BrandFooter from "@/components/BrandFooter";
 
 const questions = questionsData as Question[];
 
@@ -116,6 +117,7 @@ export default function ResultatsPage() {
       <Suspense fallback={<div className="text-slate-400">Chargement…</div>}>
         <ResultatsContenu />
       </Suspense>
+      <BrandFooter />
     </main>
   );
 }

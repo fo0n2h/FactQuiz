@@ -4,6 +4,7 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import questionsData from "../../../data/questions.json";
 import type { Question, ReponseUtilisateur } from "@/types/question";
+import BrandFooter from "@/components/BrandFooter";
 
 const questions = questionsData as Question[];
 
@@ -122,6 +123,7 @@ export default function QuizPage() {
             </button>
           </div>
         )}
+        <BrandFooter />
       </div>
     </main>
   );
