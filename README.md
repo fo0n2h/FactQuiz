@@ -15,7 +15,7 @@ EMI Nothing2hide
 
 Je recommande l'installation avec NVM :
 ```bash
-curl -o- https://raw.githubusercontent.com/nvm.sh/nvm/v0.40.4/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash
 export NVM_DIR="$HOME/.nvm"
 nvm ls-remote
 nvm install --lts
