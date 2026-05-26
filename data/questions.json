@@ -50,10 +50,10 @@
   },
   {
     "id": 8,
-    "affirmation": "Napoleon Bonaparte était extrêmement petit pour son époque.",
+    "affirmation": "La couleur rouge énervent les taureaux.",
     "reponse": false,
-    "explication": "Napoléon mesurait environ 1,69 m, soit une taille légèrement supérieure à la moyenne française de son époque (~1,66 m). La légende de sa petite taille vient d'une confusion entre unités de mesure anglaises et françaises.",
-    "categorie": "Histoire"
+    "explication": "non . Les taureaux, comme tous les bovins, sont daltoniens pour la couleur rouge. Ainsi, le taureau est probablement irrité non pas par la couleur, mais par le mouvement de la cape lorsque le matador la fait tournoyer",
+    "categorie": "Nature"
   },
   {
     "id": 9,
