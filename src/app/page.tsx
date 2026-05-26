@@ -9,8 +9,8 @@ export default function HomePage() {
       <div className="max-w-lg w-full text-center space-y-8">
         <div className="space-y-4">
           <div className="space-y-1">
-            <p className="text-indigo-300 text-sm font-semibold uppercase tracking-widest">
-              Nothing2Hide
+            <p className="text-indigo-500 text-6xl font-extrabold tracking-tight">
+              NOTHING2HIDE
             </p>
             <h2 className="text-2xl font-bold text-white">
               Decentralized Festival
