@@ -13,6 +13,14 @@ EMI Nothing2hide
 | npm | 9.0.0 |
 | Git | 2.x |
 
+Je recommande l'installation avec NVM :
+```bash
+curl -o- https://raw.githubusercontent.com/nvm.sh/nvm/v0.40/install.sh | bash
+export NVM_DIR="$HOME/.nvm"
+nvm ls-repote
+nvm install --lts
+```
+
 Vérifier les versions installées :
 
 ```bash
