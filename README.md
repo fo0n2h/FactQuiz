@@ -1,6 +1,7 @@
 # FactQuiz
 
-Quiz interactif Vrai/Faux sur les fake news et idées reçues. Développé avec Next.js 15, TypeScript et Tailwind CSS.
+Quiz interactif Vrai/Faux sur les fake news et idées reçues. Développé avec Next.js 15, TypeScript et Tailwind CSS en 2spi.
+EMI Nothing2hide
 
 ---
 
@@ -163,10 +164,6 @@ Ouvrir le port si pas de reverse proxy :
 ```bash
 # UFW
 ufw allow 3000/tcp
-
-# firewalld
-firewall-cmd --permanent --add-port=3000/tcp
-firewall-cmd --reload
 ```
 
 ---
